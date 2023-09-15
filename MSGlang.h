@@ -12,6 +12,7 @@
 // #include "objValue.h"
 
 #include <iostream>
+#include "string.h"
 #include <ostream>
 #include <assert.h>
 #include <cmath>
